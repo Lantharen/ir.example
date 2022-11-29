@@ -1,0 +1,22 @@
+$(function() {
+    //$('body').on('click', function () {
+    //    document.location.href = '/tools/'
+    //});
+    //$('#toolselect').on('change', function(event) {
+    //    if (this.value=='') return;
+    //    $('#toolframe').attr('src', '/tools/'+this.value)
+    //});
+    //
+    //$('.topbar-right a').on('click', function (event) {
+    //    event.preventDefault();
+    //    var type = $(this).data('href');
+    //    console.log(type);
+    //    $('.frame-container').removeClass('tablet-side tablet phone phone-side');
+    //    if (type=='desktop') return;
+    //    if (type=='tablet-side') $('.frame-container').addClass('tablet-side');
+    //    if (type=='tablet') $('.frame-container').addClass('tablet');
+    //    if (type=='phone-side') $('.frame-container').addClass('phone-side');
+    //    if (type=='phone') $('.frame-container').addClass('phone');
+    //
+    //})
+});
